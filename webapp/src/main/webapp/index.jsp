@@ -4,3 +4,4 @@
 <h3>Added new code to funct 1</h3>
 <h2>We are doing continuos build, delivery and deployment using GIT, JENKINS, ANSIBLE resp</h2>
 <h3>Courtsey - DevOps Team, IMCS</h3>
+<h2>Finally CI-CD Test Automated</h2>
